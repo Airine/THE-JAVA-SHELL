@@ -1,2 +1,0 @@
-echo helloworld > hello.txt
-wc < hello.txt

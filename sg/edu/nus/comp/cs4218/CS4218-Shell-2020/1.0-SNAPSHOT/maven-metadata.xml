@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>sg.edu.nus.comp.cs4218</groupId>
+  <artifactId>CS4218-Shell-2020</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200421.122457</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20200421122457</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20200421.122457-1</value>
+        <updated>20200421122457</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20200421.122457-1</value>
+        <updated>20200421122457</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
