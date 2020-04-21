@@ -16,10 +16,29 @@
     </properties>
          
     <scm>
+        <url>https://github.com/Airine/THE-JAVA-SHELL/</url>
         <connection>scm:git:ssh://git@github.com:Airine/THE-JAVA-SHELL.git</connection>
         <developerConnection>scm:git:ssh://git@github.com:Airine/THE-JAVA-SHELL.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
+    
+    <distributionManagement>
+		<site>
+			<id>github-project-site</id>
+			<name>GitHub Project Pages</name>
+			<url>gitsite:git@github.com/Airine/THE-JAVA-SHELL.git</url>
+			<!--
+			YOU MUST PUT THE FOLLOWING IN ~/.m2/settings.xml
+			
+			<servers>
+				<server>
+					<id>github-project-site</id>
+					<username>git</username>
+				</server>
+			</servers>
+			-->
+		</site>
+    </distributionManagement>
 
     <dependencies>
         <dependency>
