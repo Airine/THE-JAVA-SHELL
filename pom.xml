@@ -38,6 +38,11 @@
 			</servers>
 			-->
 		</site>
+		<repository>
+			<id>github</id>
+			<name>GitHub Airine Apache Maven Packages</name>
+			<url>https://maven.pkg.github.com/airine/the-java-shell</url>
+		</repository>
     </distributionManagement>
 
     <dependencies>
